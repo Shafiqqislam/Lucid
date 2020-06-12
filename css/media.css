@@ -1,0 +1,667 @@
+@media (max-width: 1024px) {
+    
+
+}
+
+
+
+
+
+
+@media (max-width: 991.98px) {
+    
+}
+
+
+
+
+@media (max-width: 768px) {
+    .hg{
+        min-height: 70vh;
+      }
+      .cover ul li h6 {
+        font-size: 15px;
+        padding-top: 43px;
+    }
+    .cover ul li h2 {
+        font-size: 20px;
+    }
+    .cover ul li p {
+        font-size: 13px;
+        padding: 1px 0;
+    }
+    .btn-third {
+        margin-right: 14px;
+        font-size: 9px;
+        padding: 4px 15px;
+    }
+    .btn-four {
+        margin-right: 14px;
+        font-size: 9px;
+        padding: 4px 19px;
+    }
+    .list {
+        padding-bottom: 12px;
+    }
+    .heading h6 {
+        font-size: 12px;
+    }
+    .heading h1 {
+        font-size: 21px;
+    }
+    .heading1 h1 {
+        font-size: 17px;
+    }
+    .heading1 p {
+        font-size: 15px;
+    }
+    .device h1 {
+        font-size: 23px;
+    }
+    .device h5 {
+        font-size: 13px;
+        margin-top: 12px;
+    }
+    .device p {
+        font-size: 16px;
+        padding: 20px 0;
+    }
+    .device ul li {
+        font-size: 14px;
+    }
+    .device ul {
+        padding: 13px 0;
+    }
+    .bg {
+        background: #f2f2f2;
+        min-height: 50vh;
+    }
+    .Pricing h6 {
+        font-size: 13px; 
+    }
+    .Pricing h1 {
+        font-size: 25px;
+        padding: 4px 0;
+    }
+    .Pricing h5 {
+        font-size: 15px;
+        line-height: 20px;
+        margin-top: 8px;
+        padding-top: 54px;
+    }
+    .social {
+        padding: 8px 0;
+    }
+    .content p {
+        font-size: 12px;
+    }
+    .like p {
+        font-size: 20px;
+    }
+    .like {
+        padding: 26px 0;
+    }
+    .btn1 {
+        font-size: 7px;
+        /* padding: 8px 15px; */
+        /* line-height: 2px; */
+    }
+    .btn2 {
+        font-size: 7px;
+    }
+    .theme{
+        /* justify-content: center; */
+        text-align: center;
+        padding: 10px 0;
+    }
+    .plans h6 {
+        font-size: 11px;
+    }
+    .plans h1 {
+        font-size: 22px;
+        padding: 4px 0;
+    }
+    .bordering h6 {
+        font-size: 14px;
+        padding: 0px 0;
+    }
+    .bck {
+        padding: 0px 0;
+    }
+    .bck h2 {
+        font-size: 28px;
+    }
+    .bordering h5 {
+        font-size: 12px;
+    }
+    .paragraph {
+        margin-top: 7px;
+        font-size: 13px;
+        padding: 1px -3px;
+    }
+    .contact i {
+        font-size: 22px;
+    }
+    .contact p {
+
+        font-size: 12px;
+    }
+    .btn3 {
+        font-size: 8px;
+    }
+    .footer {
+        padding: 12px 0;
+    }
+    .follow2 ul li {
+        padding: 4px 8px;
+    }
+    .footer p {
+        font-size: 10px;
+    }
+    .btn-pricing {
+        margin-top: 15px;
+        background: transparent;
+        color: #008ed6;
+        font-weight: 700;
+        font-size: 7px;
+        margin: 14px 0;
+    }
+    .tbl2{
+        margin-top: -1px;
+    } 
+    .super {
+        /* background: transparent; */
+        padding-top: 12px;
+        padding: 18px 0;
+    } 
+
+ }
+
+
+
+
+
+
+@media (max-width: 575.98px) {
+    .hg{
+        min-height: 50vh;
+      }
+      .cover ul li h6 {
+        font-size: 13px;
+        padding-top: 43px;
+    }
+    .cover ul li h2 {
+        font-size: 18px;
+    }
+    .cover ul li p {
+        font-size: 12px;
+        padding: 1px 0;
+    }
+    .btn-third {
+        margin-right: 14px;
+        font-size: 7px;
+        padding: 4px 15px;
+    }
+    .btn-four {
+        margin-right: 14px;
+        font-size: 7px;
+        padding: 4px 19px;
+    }
+    .list {
+        padding-bottom: 12px;
+    }
+    .heading h6 {
+        font-size: 12px;
+    }
+    .heading h1 {
+        font-size: 21px;
+    }
+    .heading1 h1 {
+        font-size: 17px;
+    }
+    .heading1 p {
+        font-size: 15px;
+    }
+    .device h1 {
+        font-size: 21px;
+    }
+    .device h5 {
+        font-size: 13px;
+        margin-top: 12px;
+    }
+    .device p {
+        font-size: 14px;
+        padding: 2px 0;
+    }
+    .device ul li {
+        font-size: 13px;
+    }
+    .device ul {
+        padding: 12px 0;
+    }
+    .bg {
+        background: #f2f2f2;
+        min-height: 50vh;
+    }
+    .Pricing h6 {
+        font-size: 13px; 
+    }
+    .Pricing h1 {
+        font-size: 25px;
+        padding: 4px 0;
+    }
+    .Pricing h5 {
+        font-size: 14px;
+        line-height: 20px;
+        margin-top: 8px;
+    }
+    .social {
+        padding: 8px 0;
+    }
+    .content p {
+        font-size: 12px;
+    }
+    .like p {
+        font-size: 17px;
+    }
+    .like {
+        padding: 11px 0;
+    }
+    .btn1 {
+        font-size: 9px;
+    }
+    .btn2 {
+        font-size: 9px;
+    }
+    .theme{
+        /* justify-content: center; */
+        text-align: center;
+        padding: 12px 0;
+    }
+    .plans h6 {
+        font-size: 11px;
+    }
+    .plans h1 {
+        font-size: 22px;
+        padding: 4px 0;
+    }
+    .bordering h6 {
+        font-size: 14px;
+        padding: 0px 0;
+    }
+    .bck {
+        padding: 0px 0;
+    }
+    .bck h2 {
+        font-size: 29px;
+    }
+    .bordering h5 {
+        font-size: 12px;
+    }
+    .paragraph {
+        margin-top: 7px;
+        font-size: 13px;
+    }
+    .contact i {
+        font-size: 22px;
+    }
+    .contact p {
+
+        font-size: 12px;
+    }
+    .btn3 {
+        font-size: 8px;
+    }
+    .footer {
+        padding: 12px 0;
+    }
+    .follow2 ul li {
+        padding: 4px 8px;
+    }
+    .footer p {
+        font-size: 10px;
+    }
+    .btn-pricing {
+        margin-top: 15px;
+        background: transparent;
+        color: #008ed6;
+        font-weight: 600;
+        font-size: 9px;
+        margin: 8px 0;
+    }
+    .tbl2{
+        margin-top: 5px;
+    } 
+    .super {
+        background: transparent;
+    } 
+
+
+}
+
+
+
+
+
+
+@media(max-width: 425px){
+    
+}
+
+
+
+
+
+
+@media (max-width: 375px) {
+    .super {
+        background: transparent;
+    }
+    .hg{
+        min-height: 50vh;
+      }
+      .cover ul li h6 {
+        font-size: 13px;
+        padding-top: 43px;
+    }
+    .cover ul li h2 {
+        font-size: 18px;
+    }
+    .cover ul li p {
+        font-size: 12px;
+        padding: 1px 0;
+    }
+    .btn-third {
+        margin-right: 14px;
+        font-size: 7px;
+        padding: 0px 15px;
+    }
+    .btn-four {
+        margin-right: 14px;
+        font-size: 7px;
+        padding: 0px 19px;
+    }
+    .list {
+        padding-bottom: 12px;
+    }
+    .heading h6 {
+        font-size: 12px;
+    }
+    .heading h1 {
+        font-size: 21px;
+    }
+    .heading1 h1 {
+        font-size: 17px;
+    }
+    .heading1 p {
+        font-size: 15px;
+    }
+    .device h1 {
+        font-size: 21px;
+    }
+    .device h5 {
+        font-size: 13px;
+        margin-top: 12px;
+    }
+    .device p {
+        font-size: 14px;
+        padding: 2px 0;
+    }
+    .device ul li {
+        font-size: 13px;
+    }
+    .device ul {
+        padding: 12px 0;
+    }
+    .bg {
+        background: #f2f2f2;
+        min-height: 50vh;
+    }
+    .Pricing h6 {
+        font-size: 13px; 
+    }
+    .Pricing h1 {
+        font-size: 25px;
+        padding: 4px 0;
+    }
+    .Pricing h5 {
+        font-size: 14px;
+        line-height: 20px;
+        margin-top: 8px;
+    }
+    .social {
+        padding: 8px 0;
+    }
+    .content p {
+        font-size: 12px;
+    }
+    .like p {
+        font-size: 17px;
+    }
+    .like {
+        padding: 11px 0;
+    }
+    .btn1 {
+        font-size: 9px;
+    }
+    .btn2 {
+        font-size: 9px;
+    }
+    .theme{
+        /* justify-content: center; */
+        text-align: center;
+        padding: 12px 0;
+    }
+    .plans h6 {
+        font-size: 11px;
+    }
+    .plans h1 {
+        font-size: 22px;
+        padding: 4px 0;
+    }
+    .bordering h6 {
+        font-size: 14px;
+        padding: 0px 0;
+    }
+    .bck {
+        padding: 0px 0;
+    }
+    .bck h2 {
+        font-size: 29px;
+    }
+    .bordering h5 {
+        font-size: 12px;
+    }
+    .paragraph {
+        margin-top: 7px;
+        font-size: 13px;
+    }
+    .contact i {
+        font-size: 22px;
+    }
+    .contact p {
+
+        font-size: 12px;
+    }
+    .btn3 {
+        font-size: 8px;
+    }
+    .footer {
+        padding: 12px 0;
+    }
+    .follow2 ul li {
+        padding: 4px 8px;
+    }
+    .footer p {
+        font-size: 10px;
+    }
+    .btn-pricing {
+        margin-top: 15px;
+        background: transparent;
+        color: #008ed6;
+        font-weight: 600;
+        font-size: 9px;
+        margin: 8px 0;
+    }
+    .tbl2{
+        margin-top: 5px;
+    }
+}
+
+
+
+
+
+
+@media (max-width: 320px) {
+    .hg{
+        min-height: 50vh;
+      }
+      .cover ul li h6 {
+        font-size: 13px;
+        padding-top: 43px;
+    }
+    .cover ul li h2 {
+        font-size: 18px;
+    }
+    .cover ul li p {
+        font-size: 12px;
+        padding: 1px 0;
+    }
+    .btn-third {
+        margin-right: 14px;
+        font-size: 7px;
+        padding: 0px 15px;
+    }
+    .btn-four {
+        margin-right: 14px;
+        font-size: 7px;
+        padding: 0px 19px;
+    }
+    .list {
+        padding-bottom: 12px;
+    }
+    .heading h6 {
+        font-size: 12px;
+    }
+    .heading h1 {
+        font-size: 21px;
+    }
+    .heading1 h1 {
+        font-size: 17px;
+    }
+    .heading1 p {
+        font-size: 15px;
+    }
+    .device h1 {
+        font-size: 21px;
+    }
+    .device h5 {
+        font-size: 13px;
+        margin-top: 12px;
+    }
+    .device p {
+        font-size: 14px;
+        padding: 2px 0;
+    }
+    .device ul li {
+        font-size: 13px;
+    }
+    .device ul {
+        padding: 12px 0;
+    }
+    .bg {
+        background: #f2f2f2;
+        min-height: 50vh;
+    }
+    .Pricing h6 {
+        font-size: 13px; 
+    }
+    .Pricing h1 {
+        font-size: 25px;
+        padding: 4px 0;
+    }
+    .Pricing h5 {
+        font-size: 14px;
+        line-height: 20px;
+        margin-top: 8px;
+    }
+    .social {
+        padding: 8px 0;
+    }
+    .content p {
+        font-size: 12px;
+    }
+    .like p {
+        font-size: 17px;
+    }
+    .like {
+        padding: 11px 0;
+    }
+    .btn1 {
+        font-size: 9px;
+    }
+    .btn2 {
+        font-size: 9px;
+    }
+    .theme{
+        /* justify-content: center; */
+        text-align: center;
+        padding: 12px 0;
+    }
+    .plans h6 {
+        font-size: 11px;
+    }
+    .plans h1 {
+        font-size: 22px;
+        padding: 4px 0;
+    }
+    .bordering h6 {
+        font-size: 14px;
+        padding: 0px 0;
+    }
+    .bck {
+        padding: 0px 0;
+    }
+    .bck h2 {
+        font-size: 29px;
+    }
+    .bordering h5 {
+        font-size: 12px;
+    }
+    .paragraph {
+        margin-top: 7px;
+        font-size: 11px;
+    }
+    .contact i {
+        font-size: 22px;
+    }
+    .contact p {
+
+        font-size: 12px;
+    }
+    .btn3 {
+        font-size: 8px;
+    }
+    .footer {
+        padding: 12px 0;
+    }
+    .follow2 ul li {
+        padding: 4px 8px;
+    }
+    .footer p {
+        font-size: 10px;
+    }
+    .btn-pricing {
+        margin-top: 15px;
+        background: transparent;
+        color: #008ed6;
+        font-weight: 600;
+        font-size: 9px;
+        margin: 8px 0;
+    }
+    .tbl2{
+        margin-top: 5px;
+    }
+ }
+   
